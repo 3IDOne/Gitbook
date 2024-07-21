@@ -1,2 +1,0 @@
-# React and Wagmi
-
