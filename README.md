@@ -1,5 +1,5 @@
 ---
-description: 3ID.One :: Web3IDentity for everyOne
+description: 3ID.One | Web3IDentity for everyOne
 ---
 
 # Introduction to 3ID
